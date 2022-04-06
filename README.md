@@ -5,7 +5,7 @@ To-Do List Application can be used to maintain our daily tasks or list of tasks 
 3. Deleting existing tasks
 4. Mark a task as done when completed
 
-In addition to these operations, this application has an easy-to-use interface. All the tasks are divided into the following sub-sections: all, pending, and completed, which helps to manage tasks based on their status of completion:\
+In addition to these operations, this application has an easy-to-use interface. All the tasks are divided into the following sub-sections: all, pending, and completed, which helps to manage tasks based on their status of completion:
 
 <p align="center">
   <img width="700" src="https://user-images.githubusercontent.com/89263668/161941475-e5155c0a-abfa-4804-8e0b-e91b78000921.png">
