@@ -164,5 +164,5 @@ function updateTime() {
 // print time and date once, then update them every second
 updateTime();
 setInterval(function() {
-  updateTime()
+  updateTime() 
 }, 1000);
